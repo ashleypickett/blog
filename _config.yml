@@ -15,9 +15,9 @@ facebook_username:
 twitter_username:
 github_username:
 address:	123 Hard Road
-  - line:	Spokane, WA 
-  - line:
-  # Feel free to add more lines here 
+line:	Spokane, WA 
+line:
+# Feel free to add more lines here 
 telephone:
 copyright:	2017
 
